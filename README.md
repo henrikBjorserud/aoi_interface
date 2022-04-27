@@ -1,3 +1,5 @@
+# Warning! This repo was moved to - [Open AOI](https://github.com/OpenAOI) - Open AOI
+
 # Web based interface for open/AOI
 
 This is a web based interface for visual anomaly detection. It's built using Flask and Bootstrap. 

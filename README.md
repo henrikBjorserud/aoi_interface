@@ -1,4 +1,4 @@
-# Warning! This repo was moved to - [Open AOI](https://github.com/OpenAOI) - Open AOI
+# Warning! This repo was moved to - [Open AOI](https://github.com/OpenAOI)
 
 # Web based interface for open/AOI
 
